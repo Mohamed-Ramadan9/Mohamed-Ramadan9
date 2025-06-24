@@ -2,16 +2,16 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Ramadan!;" />
 </h1>
-<h3 align="center">.NET Back-End Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br/>
 
 <div align="center">
  
-I'm a passionate back-end developer specializing in .NET technologies.  
+I'm a passionate Software Engineer specializing in Back-end technologies.  
 Currently exploring microservices architecture, clean code practices, and SQL performance tuning.
 
-Ask me about **C#, ASP.NET Core, Entity Framework, SQL, or anything [here](https://github.com/Mohamed-Ramadan9/Mohamed-Ramadan9/issues)**
+Ask me about **C#, ASP.NET Core,,Node Js, Entity Framework, SQL, or anything [here](https://github.com/Mohamed-Ramadan9/Mohamed-Ramadan9/issues)**
 
 <br/>
 
