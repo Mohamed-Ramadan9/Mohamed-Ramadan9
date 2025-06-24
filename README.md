@@ -54,7 +54,7 @@ Ask me about **C#, ASP.NET Core,,Node Js, Entity Framework, SQL, or anything [he
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mohamed-Ramadan9/Mohamed-Ramadan9/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mohamed-Ramadan9/Mohamed-Ramadan9/output/github-snake.svg" />
   <br/><br/><br/>
 </div>
 
