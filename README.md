@@ -11,7 +11,7 @@
 I'm a passionate Software Engineer specializing in Back-end technologies.  
 Currently exploring microservices architecture, clean code practices, and SQL performance tuning.
 
-Ask me about **C#, ASP.NET Core,,Node Js, Entity Framework, SQL, or anything [here](https://github.com/Mohamed-Ramadan9/Mohamed-Ramadan9/issues)**
+Ask me about **Java, Spring Boot, C#, ASP.NET Core, Node Js, Entity Framework, SQL, or anything [here](https://github.com/Mohamed-Ramadan9/Mohamed-Ramadan9/issues)**
 
 <br/>
 
@@ -31,10 +31,31 @@ Ask me about **C#, ASP.NET Core,,Node Js, Entity Framework, SQL, or anything [he
 
 <hr/>
 
-<h2 align="center">💻 Languages & Tools</h2>
+<h2 align="center">💻 Core Tech Stack</h2>
+<br/>
+
+### 🚀 Java & Spring Boot
+- RESTful API Development with Spring Boot  
+- Spring Data JPA & Hibernate ORM  
+- Security with JWT & Spring Security  
+- MySQL / PostgreSQL for persistence  
+- Unit Testing with JUnit & Mockito  
+
+---
+
+### ⚡ C# & .NET
+- ASP.NET Core Web API Development  
+- Entity Framework Core (Code-First & Database-First)  
+- Clean Architecture (Domain, Application, Infrastructure, API layers)  
+- SQL Server Integration & LINQ  
+- Unit Testing with xUnit / NUnit  
+
+---
+
+<h2 align="center">🛠 Languages & Tools</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i= java ,dotnet,cs,html,css,js,angular,nodejs,tailwind,bootstrap,git,github,vscode,postman,azure" />
+   <img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,html,css,js,angular,nodejs,tailwind,bootstrap,git,github,vscode,postman,azure" />
 </div>
 
 <br/>
@@ -50,14 +71,12 @@ Ask me about **C#, ASP.NET Core,,Node Js, Entity Framework, SQL, or anything [he
 
 <hr/>
 
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mohamed-Ramadan9/Mohamed-Ramadan9/output/github-snake.svg" />
   <br/><br/><br/>
 </div>
-
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
@@ -69,3 +88,4 @@ Ask me about **C#, ASP.NET Core,,Node Js, Entity Framework, SQL, or anything [he
 </div>
 
 <br/><br/>
+
