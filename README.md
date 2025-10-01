@@ -34,7 +34,7 @@ Ask me about **C#, ASP.NET Core,,Node Js, Entity Framework, SQL, or anything [he
 <h2 align="center">💻 Languages & Tools</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,angular,nodejs,java,tailwind,bootstrap,git,github,vscode,postman,azure" />
+   <img src="https://skillicons.dev/icons?i= java ,dotnet,cs,html,css,js,angular,nodejs,tailwind,bootstrap,git,github,vscode,postman,azure" />
 </div>
 
 <br/>
